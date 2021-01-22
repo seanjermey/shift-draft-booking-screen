@@ -23,8 +23,9 @@ const useStyles = makeStyles((theme: Theme) => ({
     bottom: 0,
     left: 0,
     background:
-      "linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,.1) 100%)",
+      "linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(255,255,255,.5) 100%)",
     pointerEvents: "none",
+    zIndex: 999,
   },
 }));
 
@@ -46,9 +47,9 @@ export const PriceList = (props: PriceListProps) => {
               price={d.price}
               bestPrice={d.price === bestPrice}
             />
-            <div className={classes.gradient}></div>
           </Grid>
         ))}
+        <div className={classes.gradient}></div>
       </Grid>
     </Box>
   );
