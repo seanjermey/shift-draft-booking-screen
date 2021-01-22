@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Today",
+    "date": "02/05/2021",
+    "price": 67
+  },
+  {
+    "title": "Tomorrow",
+    "date": "02/06/2021",
+    "price": 78
+  },
+  {
+    "title": "Sunday",
+    "date": "02/07/2021",
+    "price": 93
+  },
+  {
+    "title": "Monday",
+    "date": "02/08/2021",
+    "price": 82
+  },
+  {
+    "title": "Tuesday",
+    "date": "02/09/2021",
+    "price": 54
+  },
+  {
+    "title": "Wednesday",
+    "date": "02/10/2021",
+    "price": 58
+  },
+  {
+    "title": "Thursday",
+    "date": "02/11/2021",
+    "price": 54
+  },
+  {
+    "title": "Friday",
+    "date": "02/12/2021",
+    "price": 54
+  },
+  {
+    "title": "Next Saturday",
+    "date": "02/13/2021",
+    "price": 54
+  },
+  {
+    "title": "Next Sunday",
+    "date": "02/14/2021",
+    "price": 72
+  },
+  {
+    "title": "Next Monday",
+    "date": "02/15/2021",
+    "price": 54
+  },
+  {
+    "title": "Next Tuesday",
+    "date": "02/16/2021",
+    "price": 54
+  }
+]

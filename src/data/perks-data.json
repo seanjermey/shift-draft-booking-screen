@@ -1,0 +1,15 @@
+[
+  {
+    "label": "A vetted & rated Shifter",
+    "asset": "./assets/vetted-shifters.png"
+  },
+  {
+    "label": "Big enough to fit everything in",
+    "asset": "./assets/big-enough-to-fit-everything.png"
+  },
+  {
+    "label": "Fixed price, no matter what!",
+    "asset": "./assets/fixed-price.png"
+  }
+]
+
